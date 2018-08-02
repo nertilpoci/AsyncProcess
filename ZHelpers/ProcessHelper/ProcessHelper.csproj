@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Nertil POCI</Authors>
+    <Company>Nertil POCI</Company>
+  </PropertyGroup>
+
+</Project>
