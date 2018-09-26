@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 
-namespace ZHelpers.ProcessHelper
+namespace AsyncProcess
 {
     public class StreamProcess:ProcessBase
     {
